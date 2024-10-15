@@ -172,7 +172,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/tombstone.png
         altText: Image one
         caption: Image one caption
         elementId: ''
