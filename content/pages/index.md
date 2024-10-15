@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Rank
+        label: Pictures
         altText: ''
         url: /Rank
         showIcon: true
