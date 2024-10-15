@@ -100,7 +100,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-        borderWidth: 3
+        borderWidth: 4
       title:
         textAlign: left
       subtitle:
