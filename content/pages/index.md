@@ -75,46 +75,6 @@ sections:
 
 
       (Two current accounts which are hidden)
-  - type: MediaGallerySection
-    title: Some of My Proudest Moments
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/top 126.png
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-3.jpg
-        altText: Image three
-        caption: Image three caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-4.jpg
-        altText: Image four
-        caption: Image four caption
-        elementId: ''
-    colors: colors-f
-    spacing: 16
-    columns: 4
-    aspectRatio: '4:3'
-    showCaption: false
-    enableHover: true
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: HeroSection
     title: 'My Biggest Achievement '
     subtitle: ''
