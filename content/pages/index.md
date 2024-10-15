@@ -45,7 +45,7 @@ sections:
       - type: Button
         label: Pictures
         altText: ''
-        url: /Rank
+        url: /Pictures
         showIcon: true
         icon: ''
         iconPosition: right
