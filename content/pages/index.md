@@ -137,7 +137,7 @@ sections:
       type: ImageBlock
       url: /images/top 126.png
       altText: Lilslap Top 126
-      caption: Caption of the image
+      caption: Lilslap Top 126
       elementId: ''
     colors: colors-c
     backgroundSize: full
