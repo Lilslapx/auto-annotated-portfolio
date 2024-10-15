@@ -110,7 +110,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: HeroSection
-    title: ''
+    title: Longest Hostage Game
     subtitle: ''
     actions:
       - type: Button
