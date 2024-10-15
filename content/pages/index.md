@@ -60,6 +60,40 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+    text: >+
+      I am a seasoned Bronze player, i have peaked top #126 which is currently
+      my most highlighted accolade. 
+
+
+      I may also be known as
+
+
+      *   DashThePro
+
+
+      *   KwarcowyTank
+
+
+      *   BrownBison
+
+
+      *   Borgee
+
+
+      *   LaraCroft
+
+
+      *   BeigeHydra
+
+
+      *   Flamebeast
+
+
+      *   Verovazed
+
+
+      (Two current accounts which are hidden)
+
   - type: QuoteSection
     quote: |
       “TBD”
