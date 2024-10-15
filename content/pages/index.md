@@ -60,40 +60,21 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-    text: >+
-      I am a seasoned Bronze player, i have peaked top #126 which is currently
-      my most highlighted accolade. 
+    text: >
+
+      I'm a seasoned Bronze player with a love for all things Overwatch. My
+      proudest moment? Peaking at top #126, which is easily my most highlighted
+      accolade.
 
 
       I may also be known as
 
 
-      *   DashThePro
-
-
-      *   KwarcowyTank
-
-
-      *   BrownBison
-
-
-      *   Borgee
-
-
-      *   LaraCroft
-
-
-      *   BeigeHydra
-
-
-      *   Flamebeast
-
-
-      *   Verovazed
+      *   DashThePro, KwarcowyTank, Chaya, BrownBison, Borgee, LaraCroft,
+      BeigeHydra, Flamebeast, Verovazed, Lily
 
 
       (Two current accounts which are hidden)
-
   - type: QuoteSection
     quote: |
       “TBD”
