@@ -85,7 +85,7 @@ sections:
       altText: Lilslap Top 126
       caption: Lilslap Top 126
       elementId: ''
-    colors: colors-c
+    colors: colors-f
     backgroundSize: full
     elementId: ''
     styles:
