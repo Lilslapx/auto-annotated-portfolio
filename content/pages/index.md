@@ -111,7 +111,7 @@ sections:
         justifyContent: flex-start
   - type: HeroSection
     title: Longest Hostage Game
-    subtitle: ''
+    subtitle: 50+ Mins KOTH
     actions: []
     media:
       type: ImageBlock
