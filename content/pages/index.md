@@ -77,7 +77,7 @@ sections:
       (Two current accounts which are hidden)
   - type: MediaGallerySection
     title: Some of My Proudest Moments
-    subtitle: \
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/top 126.png
