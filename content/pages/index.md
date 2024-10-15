@@ -46,7 +46,7 @@ sections:
     quote: |
       “TBD”
     name: Lilslap
-    title: Product Marketing Manager at Acme
+    title: Best Bronze Player OCE
     colors: colors-f
     elementId: ''
     styles:
