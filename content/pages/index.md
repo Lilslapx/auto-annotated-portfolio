@@ -49,7 +49,7 @@ sections:
         showIcon: true
         icon: apple
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
       - type: Button
         label: Graveyard
