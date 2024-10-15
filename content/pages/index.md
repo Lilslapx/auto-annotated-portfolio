@@ -168,7 +168,7 @@ sections:
         fontWeight": 400
         textAlign: center
   - type: MediaGallerySection
-    title: Gallery
+    title: My Graveyard
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
