@@ -76,7 +76,7 @@ sections:
 
       (Two current accounts which are hidden)
   - type: MediaGallerySection
-    title: Gallery
+    title: Some of My Proudest Moments
     subtitle: \
     images:
       - type: ImageBlock
