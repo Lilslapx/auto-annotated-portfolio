@@ -46,7 +46,7 @@ sections:
         label: Rank
         altText: ''
         url: /Rank
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
