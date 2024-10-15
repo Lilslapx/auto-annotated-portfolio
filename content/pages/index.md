@@ -43,9 +43,8 @@ sections:
     type: HeroSection
     actions: []
   - type: QuoteSection
-    quote: >-
-      “We think coding should be required in every school because it's as
-      important as any kind of second language.”
+    quote: |
+      “TBD”
     name: Johnna Doe
     title: Product Marketing Manager at Acme
     colors: colors-f
