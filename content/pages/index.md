@@ -136,7 +136,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/top 126.png
-      altText: Hero image
+      altText: Lilslap Top 126
       caption: Caption of the image
       elementId: ''
     colors: colors-c
