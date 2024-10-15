@@ -45,7 +45,7 @@ sections:
   - type: QuoteSection
     quote: |
       “TBD”
-    name: Johnna Doe
+    name: Lilslap
     title: Product Marketing Manager at Acme
     colors: colors-f
     elementId: ''
