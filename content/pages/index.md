@@ -47,7 +47,7 @@ sections:
         altText: ''
         url: /Rank
         showIcon: true
-        icon: apple
+        icon: ''
         iconPosition: right
         style: secondary
         elementId: ''
