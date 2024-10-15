@@ -80,7 +80,7 @@ sections:
     subtitle: \
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/top 126.png
         altText: Image one
         caption: Image one caption
         elementId: ''
